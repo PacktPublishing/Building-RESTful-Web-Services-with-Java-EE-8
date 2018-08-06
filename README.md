@@ -4,7 +4,7 @@
 
 This is the code repository for [Building RESTful Web Services with Java EE 8](https://www.packtpub.com/application-development/building-restful-web-services-java-ee-8?utm_source=github&utm_medium=repository&utm_campaign=9781789532883 ), published by Packt.
 
-**Learn the fundamentals of Java EE 8 APIs to build effective web services **
+**Create modern RESTful web services with the Java EE 8 API**
 
 ## What is this book about?
 Java Enterprise Edition is one of the leading application programming platforms for enterprise Java development. With Java EE 8 finally released and the first application servers now available, it is time to take a closer look at how to develop modern and lightweight web services with the latest API additions and improvements.
@@ -65,8 +65,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 *  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
-**Mario Leander Reimer**
- is a chief technologist for QAware GmbH. He is a senior Java developer with several years' experience in designing complex and large-scale system architectures. He continuously looks for innovations and ways to combine and apply state-of-the-art technology and open source software components to real-world customer projects. He studied computer science at Rosenheim and Staffordshire University and he teaches cloud computing as a part-time lecturer.
+**Mario-Leander Reimer**
+is a chief technologist for QAware GmbH. He is a senior Java developer with several years' experience in designing complex and large-scale system architectures. He continuously looks for innovations and ways to combine and apply state-of-the-art technology and open source software components to real-world customer projects. He studied computer science at Rosenheim and Staffordshire University and he teaches cloud computing as a part-time lecturer.
 
 ## Other books by the authors
 [](https://www.packtpub.com/application-development/getting-started-cloud-native-go?utm_source=github&utm_medium=repository&utm_campaign=)
