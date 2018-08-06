@@ -47,9 +47,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
-* Java EE 8 Application Development [[Packt]](https://www.packtpub.com/application-development/java-ee-8-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781788293679 ) [[Amazon]](https://www.amazon.com/dp/1788393856)
+* Java EE 8 Application Development [[Packt]](https://www.packtpub.com/application-development/java-ee-8-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781788293679 ) [[Amazon]](https://www.amazon.com/dp/1788291204)
 
-* Architecting Modern Java EE Applications [[Packt]](https://www.packtpub.com/application-development/architecting-modern-java-ee-applications?utm_source=github&utm_medium=repository&utm_campaign=9781788393850 ) [[Amazon]](https://www.amazon.com/dp/1788291204)
+* Architecting Modern Java EE Applications [[Packt]](https://www.packtpub.com/application-development/architecting-modern-java-ee-applications?utm_source=github&utm_medium=repository&utm_campaign=9781788393850 ) [[Amazon]](https://www.amazon.com/dp/1788393856)
 
 ## Get to Know the Author
 **Mario-Leander Reimer**
