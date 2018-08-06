@@ -40,18 +40,9 @@ This book is intended for Java developers who want to learn how to implement web
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
+| Chapter | Software required | Hardware required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1-6 | Maven 3.5.x, Payara Server 5.x, Docker for Windows, IntelliJ IDEA 2017.3, Postman or SoapUI | System with 4GB RAM |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
@@ -60,16 +51,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Architecting Modern Java EE Applications [[Packt]](https://www.packtpub.com/application-development/architecting-modern-java-ee-applications?utm_source=github&utm_medium=repository&utm_campaign=9781788393850 ) [[Amazon]](https://www.amazon.com/dp/1788291204)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Mario-Leander Reimer**
 is a chief technologist for QAware GmbH. He is a senior Java developer with several years' experience in designing complex and large-scale system architectures. He continuously looks for innovations and ways to combine and apply state-of-the-art technology and open source software components to real-world customer projects. He studied computer science at Rosenheim and Staffordshire University and he teaches cloud computing as a part-time lecturer.
-
-## Other books by the authors
-[](https://www.packtpub.com/application-development/getting-started-cloud-native-go?utm_source=github&utm_medium=repository&utm_campaign=)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
