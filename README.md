@@ -4,7 +4,7 @@
 
 This is the code repository for [Building RESTful Web Services with Java EE 8](https://www.packtpub.com/application-development/building-restful-web-services-java-ee-8?utm_source=github&utm_medium=repository&utm_campaign=9781789532883 ), published by Packt.
 
-**Learn the fundamentals of Java EE 8 APIs to build effective web services **
+**Create modern RESTful web services with the Java EE 8 API**
 
 ## What is this book about?
 Java Enterprise Edition is one of the leading application programming platforms for enterprise Java development. With Java EE 8 finally released and the first application servers now available, it is time to take a closer look at how to develop modern and lightweight web services with the latest API additions and improvements.
@@ -17,7 +17,7 @@ Implement synchronous and asynchronous JAX-RS clients
 Use server-sent events to implement server-side code 
 Secure Java EE 8 web services with JSON Web Tokens 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B072MFGRVF) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Building-RESTful-Web-Services-Java/dp/1789532884) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -40,36 +40,20 @@ This book is intended for Java developers who want to learn how to implement web
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
+| Chapter | Software required | Hardware required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1-6 | Maven 3.5.x, Payara Server 5.x, Docker for Windows, IntelliJ IDEA 2017.3, Postman or SoapUI | System with 4GB RAM |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
-* Java EE 8 Application Development [[Packt]](https://www.packtpub.com/application-development/java-ee-8-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781788293679 ) [[Amazon]](https://www.amazon.com/dp/1788393856)
+* Java EE 8 Application Development [[Packt]](https://www.packtpub.com/application-development/java-ee-8-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781788293679 ) [[Amazon]](https://www.amazon.com/dp/1788291204)
 
-* Architecting Modern Java EE Applications [[Packt]](https://www.packtpub.com/application-development/architecting-modern-java-ee-applications?utm_source=github&utm_medium=repository&utm_campaign=9781788393850 ) [[Amazon]](https://www.amazon.com/dp/1788291204)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
+* Architecting Modern Java EE Applications [[Packt]](https://www.packtpub.com/application-development/architecting-modern-java-ee-applications?utm_source=github&utm_medium=repository&utm_campaign=9781788393850 ) [[Amazon]](https://www.amazon.com/dp/1788393856)
 
 ## Get to Know the Author
-**Mario Leander Reimer**
- is a chief technologist for QAware GmbH. He is a senior Java developer with several years' experience in designing complex and large-scale system architectures. He continuously looks for innovations and ways to combine and apply state-of-the-art technology and open source software components to real-world customer projects. He studied computer science at Rosenheim and Staffordshire University and he teaches cloud computing as a part-time lecturer.
-
-## Other books by the authors
-[](https://www.packtpub.com/application-development/getting-started-cloud-native-go?utm_source=github&utm_medium=repository&utm_campaign=)
+**Mario-Leander Reimer**
+is a chief technologist for QAware GmbH. He is a senior Java developer with several years' experience in designing complex and large-scale system architectures. He continuously looks for innovations and ways to combine and apply state-of-the-art technology and open source software components to real-world customer projects. He studied computer science at Rosenheim and Staffordshire University and he teaches cloud computing as a part-time lecturer.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
